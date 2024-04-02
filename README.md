@@ -3,17 +3,17 @@
 ###
 
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jason-kaleb&show_icons=true&locale=en&layout=compact" alt="jason-kaleb" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jason-kaleb&show_icons=true&locale=en" alt="jason-kaleb" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jason-kaleb&" alt="jason-kaleb" /></p>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jason-Kaleb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Jason-Kaleb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jason-Kaleb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="center"> 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jason-kaleb&show_icons=true&locale=en&layout=compact" alt="jason-kaleb" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jason-kaleb&show_icons=true&locale=en" alt="jason-kaleb" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jason-kaleb&" alt="jason-kaleb" /></p>
 </div>
 
 ###
@@ -55,10 +55,7 @@
 <img src="https://raw.githubusercontent.com/Jason-Kaleb/Jason-Kaleb/output/snake.svg" alt="Snake animation" />
 
 ###
- <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-
+ 
 
 
 <!---
