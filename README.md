@@ -35,7 +35,8 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-![snake animation](https://github.com/Jason-Kaleb/SiN-Kali/blob/main/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Jason-Kaleb/SiN-Kali/blob/output/snake.svg)
+
 <!---
 SiN-Kali/SiN-Kali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
