@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jason-kaleb&show_icons=true&locale=en&layout=compact" alt="jason-kaleb" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jason-kaleb&show_icons=true&locale=en" alt="jason-kaleb" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jason-kaleb&" alt="jason-kaleb" /></p>
 </div>
 
 ###
@@ -55,14 +55,11 @@
 <img src="https://raw.githubusercontent.com/Jason-Kaleb/Jason-Kaleb/output/snake.svg" alt="Snake animation" />
 
 ###
+ <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jason-kaleb&show_icons=true&locale=en&layout=compact" alt="jason-kaleb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jason-kaleb&show_icons=true&locale=en" alt="jason-kaleb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jason-kaleb&" alt="jason-kaleb" /></p>
 
 <!---
 SiN-Kali/SiN-Kali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
