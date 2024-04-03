@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">Hi 👋! My name is Jason and I'm am going to be a future Software Developer Engineer from South Africa🇿🇦.</h3>
+<h3 align="center">Hi 👋! My name is Jason and I am a future Software Developer Engineer from South Africa🇿🇦.</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jason-Kaleb&icon=0&color=0)](https://visitcount.itsvg.in)
