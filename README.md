@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jasonkaleb_19" target="blank"><img src="https://img.shields.io/twitter/follow/jasonkaleb_19?logo=twitter&style=for-the-badge" alt="jasonkaleb_19" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring**
+- 🌱 I’m currently learning **Flutter**
 
 - ⚡ Fun fact **I think I am funny :)**
 
